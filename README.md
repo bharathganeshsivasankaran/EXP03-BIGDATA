@@ -3,7 +3,8 @@
 Name : Bharathganesh S
 Reg No : 212222230022
 ```
-### 1 - Number Analysis with Dataset
+# 1 - Number Analysis with Dataset
+
 ## AIM:
 To analyze a list of numbers using PySpark to identify even, odd, prime, and palindromic numbers, and compute basic statistics.
 
@@ -108,7 +109,7 @@ print("Sum =", total_sum, "Even Count =", even_count)
 Thus, the program to analyze a list of numbers using PySpark to identify even, odd, prime, and palindromic numbers, and compute basic statistics has been successfully completed
 
 
-### ### 2 - Logical Analysis on Age Data
+# 2 - Logical Analysis on Age Data
 
 ## AIM:
 To categorize people as Minor, Adult, or Senior based on age and find age statistics.
@@ -198,7 +199,7 @@ Thus the program to categorize people as Minor, Adult, or Senior based on age an
 
 
 
-### 3 - Product Sales Analysis
+# 3 - Product Sales Analysis
 
 ## AIM:
 To analyze product sales and identify top-selling products, categories, and reorder requirements.
